@@ -1,5 +1,5 @@
 # Aksana Dziakanchuk
-### Minsk, Belarus
+
 ## Junior FrontEnd Developer
 
 ## Contact information
@@ -12,7 +12,10 @@ LinkedIn: [https://www.linkedin.com/in/aksana-dziakanchuk-54329386/]
 Take new knowledge in FrontEnd, and at last I want to get a new job. I am good at studying.
 
 ## Skills
-SQL, ABL, progress 4GL, SVN, HTML, CSS, PHP.
+* HTML5, CSS3, JavaScript, PHP, OpenEdge ABL(Progress 4GL)
+* SQL, MySQL
+* SVN, GIT, GITHub
+* VS Code
 
 ## Code Example
 TO DO.
