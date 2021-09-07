@@ -1,0 +1,79 @@
+.main_container {
+    margin: 20px auto;
+    border: solid 2px;
+    width: 1024px;
+    padding: 10px;
+    font-family: "Cabin", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+
+}
+
+header{
+    display:flex;
+    background-color: #FFD700;
+}
+.aplfoto{
+    
+    flex:1;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    
+    
+}
+.applicant_name{
+    flex:3;
+    text-align: center;
+    padding: 60px 10px 10px 10px;
+    margin: 10px;
+}
+.main_information {
+    display:flex; 
+}
+.left_side{
+    flex:2;
+    padding: 10px;
+}
+
+.center_img{
+    flex:1;
+    text-align: center;
+}
+
+.right_side{
+    flex:4;
+    padding: 10px;
+}
+h1, h2, h3 {
+    font-weight: 600;
+    line-height: 1.1;
+    text-transform: uppercase;
+
+}
+.contacts div{
+    padding:5px;
+    
+}
+.linkedin a{
+   vertical-align: middle; 
+
+}
+.mail{
+    vertical-align: middle; 
+}
+a{
+    text-decoration: none;
+    color:black;  
+}
+footer {
+    display:flex; 
+}
+footer a{
+    flex:1;
+    text-align: center;
+}
+footer p{
+    flex:1;
+    text-align: center;
+}
