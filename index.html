@@ -84,6 +84,18 @@
                 <p> Developer, May 2014 - December 2015, Biexpert</p>
                 
                 <h2>Code Example</h2>
+                <pre>
+                    <code>
+FOR EACH msg-impexp WHERE
+   msg-impexp.msg-cat EQ 'op' AND
+   msg-impexp.object-id EQ string(op.op) no-lock:
+   IF msg-impexp.msg-type BEGINS 'iID' THEN DO:
+     IF msg-impexp.msg-type BEGINS 'IBN' THEN NEXT.
+     mMesImp = msg-impexp.msg-type + msg-impexp.msg-text.
+   END.
+END.
+                    </code>
+                </pre>
             </div>
         </article>
 
