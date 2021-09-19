@@ -113,3 +113,9 @@ footer div img{
     vertical-align: middle;
 }
 
+pre{
+    padding-left: 30px;
+    font-family: monospace;
+    font-size: 12px;
+    
+}
