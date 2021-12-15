@@ -1,2 +1,2 @@
-https://ADziakon.github.io/rsschool-cv/cv \
-https://ADziakon.github.io/rsschool-cv/
+https://ADziakon.github.io/rsschool-cv-old/cv \
+https://ADziakon.github.io/rsschool-cv-old/
